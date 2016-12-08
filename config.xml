@@ -5,7 +5,7 @@
         id          = "com.homewardhealthcare.dd"
         versionCode = "3"
         version     = "3" >
-
+    <preference name="phonegap-version" value="cli-6.3.0" />
     <name>VISHANDEL APP</name>
     <description>said</description>
 
