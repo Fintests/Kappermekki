@@ -6,10 +6,10 @@
         versionCode = "3"
         version     = "3" >
     <preference name="phonegap-version" value="cli-6.3.0" />
-    <name>VISHANDEL APP</name>
+    <name>Kapper Mekki APP</name>
     <description>said</description>
 
-    <author href="https://www.homewardhealthcare.com" email="joeg@homewardhealthcare.com">
+    <author href="" email="kappermekki@gmail.com">
         Vishandel Said vof
     </author>
 
@@ -42,5 +42,5 @@
 	<!-- <gap:plugin name="org.crosswalk.engine" /> -->
 
 	<!-- This will open inside app -->
-	<access origin="http://autorijschoolspits.nl" />
+	<access origin="http://kappermekki.nl" />
 </widget>
